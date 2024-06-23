@@ -21,4 +21,4 @@ Está fase é bem simples tendo apenas dois tipos de inimigos e alguns fantasmas
 ## Video Gameplay
 https://drive.google.com/file/d/1IrPFuEyxnJDZ8QX8JYNZyI11VLxJivRz/view?usp=drive_link
 ## Jogo (compactado)
-https://drive.google.com/drive/my-drive?hl=pt-BR
+[https://drive.google.com/drive/my-drive?hl=pt-BR](https://drive.google.com/file/d/1dsORBTJ0lby_T3X1q5Ck4JXm4a5_QLul/view?usp=sharing)
